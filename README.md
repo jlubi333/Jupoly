@@ -37,3 +37,6 @@ b                             b                             b
 c                 c                 c                 c                 c               
 .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .
 ```
+
+## Why “Jupoly”?
+**JU**(stin) **POLY**(rhythm)
